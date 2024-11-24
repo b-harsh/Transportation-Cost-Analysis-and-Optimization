@@ -24,11 +24,6 @@ The project includes:
 - Excel-based analysis: Utilizing Excel spreadsheets to organize, visualize, and analyze transportation cost data.
 - Python-based analysis: Implementing Python scripts to perform advanced data analysis, modeling, and optimization.
 
-## Files Included
-- **Routes_table.csv**: Excel file containing data about transportation routes.
-- **Service_table.csv**: Excel file containing data about transportation carriers.
-- **Trip_table.csv**: Excel file containing data about transportation costs.
-- **analysis.py**: Python script for advanced data analysis, modeling, and optimization.
 
 ## How to Use
 1. Download the provided Excel files: Routes_table.csv, Service_table.csv, and Trip_table.csv.
@@ -38,8 +33,3 @@ The project includes:
 ## Dependencies
 - Python 3.x
 - Required Python libraries (e.g., pandas, numpy, matplotlib)
-
-
-## Disclaimer
-This project is for educational and demonstration purposes only. It may contain fictional data and scenarios. The authors do not take responsibility for any decisions made based on the results of this project.
-
